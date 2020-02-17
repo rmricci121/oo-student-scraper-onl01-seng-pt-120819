@@ -53,4 +53,3 @@ index_url = open("https://learn-co-curriculum.github.io/student-scraper-test-pag
 
 end
 
-#so we need to actually iterate over social.css("a") and check if each element.attribute("href").value include? linkedin, github, twitter, etc. and assign accordingly
